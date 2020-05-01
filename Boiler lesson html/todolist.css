@@ -1,0 +1,11 @@
+body {
+	background: orange;
+}
+
+#video{
+	background: red;
+}
+
+.completed{
+	text-decoration: line-through;
+}
